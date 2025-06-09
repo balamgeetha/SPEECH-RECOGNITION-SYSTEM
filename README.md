@@ -133,3 +133,8 @@ Optionally, include speaker segmentation or translation.
 
 ✅ Conclusion
 Speech recognition has grown from rule-based systems to powerful deep learning models that are capable of understanding natural language across multiple languages, accents, and contexts. With continued innovation in AI, these systems are becoming more reliable, efficient, and accessible—enabling a wide range of real-world applications.
+
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/98edb2bb-3167-4e3d-8cb7-6e968893b22b)
